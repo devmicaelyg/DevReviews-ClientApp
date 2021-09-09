@@ -1,0 +1,19 @@
+nav {
+
+    background-color: #293241;
+    color: #fff  !important; 
+
+    .navbar-brand{
+        color: #EE6C4D;
+    }
+}
+
+.body-page { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    table { 
+        margin-top: 50px;
+    }
+}
